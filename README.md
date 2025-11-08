@@ -35,7 +35,3 @@ It mimics the behavior of a basic Linux terminal and supports:
 | ⚙️ **Background Jobs** | Run jobs in background | `sleep 5 &` |
 | ⏸️ **Signal Handling** | Handles `Ctrl + C` and `Ctrl + Z` | Interrupt / stop processes |
 | 📋 **Job Control** | Resume/bring back jobs | `fg <pid>`, `bg <pid>` |
-
----
-
-## ⚙️ Project Structure
