@@ -11,7 +11,7 @@
 ---
 
 ## 📖 Overview
-This project is a **Custom Command Shell** implemented in **C++17** as part of the Capstone/Assignment-2.  
+This project is a **Custom Command Shell** implemented in **C++** .  
 It mimics the behavior of a basic Linux terminal and supports:
 - Command parsing with quotes (`" "` and `' '`)
 - Built-in commands like `cd`, `exit`, `jobs`, `fg`, `bg`
