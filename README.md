@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Language-C%2B%2B17-blue.svg">
   <img src="https://img.shields.io/badge/Platform-Linux%2FWSL-lightgrey.svg">
   <img src="https://img.shields.io/badge/Status-Working-brightgreen.svg">
-  <img src="https://img.shields.io/badge/License-MIT-orange.svg">
 </p>
 
 ---
